@@ -2,7 +2,7 @@
 
 I'm Raja Thota, an enthusiastic Python developer with over 6 years of experience in full-stack development and a passion for artificial intelligence and machine learning. Currently serving as CTO at AuditOne GmbH, I lead the technical direction of the company and drive innovation in the blockchain security domain.
 
-🔭 **Currently:** CTO at AuditOne GmbH, focusing on building innovative auditor pooling platforms, trust layer APIs, and automated audit tools in web3.
+🔭 **Currently:** CTO at AuditOne GmbH, focusing on building innovative auditor pooling platform, trust layer APIs, and automated audit tools in web3.
 
 🌱 **Passionate About:** Sharing knowledge! I'm involved in educational initiatives, creating boot camps in AI and ML at The Code To Change, and co-founding Robokalam where I've trained and guided 500+ graduates in ML using Python.
 
