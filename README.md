@@ -1,35 +1,47 @@
-**Summary**:
+### **Raja Sekhar Thota — CTO, Educator, and Innovating at intersection of AI, Web3 and Cybersecurity**
 
-I'm Raja Thota, an enthusiastic Python developer with over 6 years of experience in full-stack development and a passion for artificial intelligence and machine learning. Currently serving as CTO at AuditOne GmbH, I lead the technical direction of the company and drive innovation in the blockchain security domain.
+I'm Raja Thota, a passionate Python developer and full-stack engineer with over 8+ years of experience in AI, ML, and blockchain. As the Chief Technology Officer and Co-founder of AuditOne GmbH, I lead the development of secure, scalable systems that redefine how auditing is approached in decentralised ecosystems.
 
-🔭 **Currently:** CTO at AuditOne GmbH, focusing on building innovative auditor pooling platform, trust layer APIs, and automated audit tools in web3.
+### **Currently**
+- **CTO at AuditOne GmbH (Germany)** — leading the design and implementation of auditor aggregator platform, AI agents, trust layer APIs, and automated audit tools for Web3 security.
 
-🌱 **Passionate About:** Sharing knowledge! I'm involved in educational initiatives, creating boot camps in AI and ML at The Code To Change, and co-founding Robokalam where I've trained and guided 500+ graduates in ML using Python.
+### **Areas of Focus**
+- Creating AI-powered platforms and blockchain audit tools that enable scalable, secure operations.
+- Leading educational initiatives, boot camps, and workshops in AI and ML.
+- Promoting open, inclusive technology education through Robokalam and The Code To Change.
 
-💡 **Driving Force:** Harnessing technology to create a positive impact. I thrive on innovation and startup ecosystems.
+### **Recognitions**
+- Winner at the **WAI Datathon for a Sustainable Future**, Netherlands.
+- Selected among the **Top 10 Corporate Leaders from Hyderabad** by CEO Insights India.
+- Recipient of the **National Award for Social Innovation**, India.
 
-🏆 **Achievements:** 
-- Recognized as a top 10 corporate leader by CEO Insights India magazine for my CTO role at Robokalam.
-- Won 1st place in WaiDATATHON for Sustainable Future organized by Women in AI, Netherlands.
+### **Experience Highlights**
+- **AuditOne GmbH** – Developing infrastructure for blockchain protocol audits and AI-based tooling.
+- **Robokalam** – Trained over 500 learners in Python and ML; built accessible AI learning pathways.
+- **The Code To Change** – Facilitated boot camps and corporate hackathons focused on AI and data challenges.
+- **HRS Group** – Built machine learning models for prediction and image analysis using AWS.
 
-🚀 **Experience:** 
-- CTO & Co-Founder at AuditOne GmbH, Germany.
-- Facilitator & Curriculum Developer at The Code To Change, Amsterdam.
-- Product Lead & Co-founder at Robokalam, India.
+### **Education**
+- Master's in Big Data and Business Analytics – FOM University, Germany  
+- Bachelor of Technology in Mechanical Engineering – JNTUH College of Engineering, India
 
-🎓 **Education:** 
-- Master's degree in Big Data and Business Analytics from FOM University
-- Bachelor of Technology in Mechanical Engineering from JNTUH College.
+### **Certifications**
+- Google Cybersecurity Specialization  
+- Agile with Scrum  
+- AI, IoT, Robotics, and Blockchain specialization  
+- CATIA, SolidWorks CAD Design
 
-📚 **Certifications:** Diverse certifications in AI, IoT, Robotics, Blockchain, and more.
+### **Core Skills**
+- Python, AI/ML, Flask  
+- Blockchain Security and Auditing  
+- Data Engineering and IoT  
+- Full-stack Development and Curriculum Design
 
-🌐 **Projects:** 
-- Python Educator at [https://pytech.academy](https://pytech.academy) 
-- Crafting Analytics as a Service at MARC Insights
-- Intelligent Environment Monitoring with IoT and ML, and more.
+### **Initiatives & Volunteering**
+- Co-founder of Robokalam and PyTech Academy  
+- Facilitator at The Code To Change  
 
-🤝 **Volunteering:** Contributed as a student volunteer at Techniche, IIT Guwahati, and as an innovator and contributor at UN Technology Innovation Labs.
+---
 
-🛠️ **Skills:** IoT, Python, AI, ML, and more.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rajaathota72) or explore my work on [Medium](https://pytechacademy.medium.com). I’m always open to collaborations that push the boundaries of innovation.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thotaraja95). Let's collaborate and create technological wonders! ⚡
