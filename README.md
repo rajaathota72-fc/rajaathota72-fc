@@ -1,4 +1,4 @@
-### **Raja Sekhar Thota — CTO, Educator, and Innovating at intersection of AI, Web3 and Cybersecurity**
+### **Raja Sekhar Thota — CTO and Educator, innovating at intersection of AI, Web3 and Cybersecurity**
 
 I'm Raja Thota, a passionate Python developer and full-stack engineer with over 8+ years of experience in AI, ML, and blockchain. As the Chief Technology Officer and Co-founder of AuditOne GmbH, I lead the development of secure, scalable systems that redefine how auditing is approached in decentralised ecosystems.
 
